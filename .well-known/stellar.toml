@@ -5,3 +5,14 @@ ORG_NAME="Stellar Meme Dot Fun"
 ORG_URL="https://stellarmeme.fun"
 ORG_LOGO="https://stellarmeme.fun/assets/funstellarmeme-web-logo.png"
 ORG_DESCRIPTION="StellarMeme is not just another meme token—it’s a collectible, a keepsake, and a part of the fun! Whether you’re here for the hype, the humor, or the long-term value, this token is designed to bring joy while riding the waves of the Stellar blockchain. Cute, unique, and full of potential—because why just pump when you can also keep the fun forever?"
+
+[[CURRENCIES]]
+code="FATPANDA"
+issuer="GCQ4A4J24YLGRYBFBIAYNNUV6OGWHTL4UL7B3U2SHKUBWKXWH6HFLABI"
+status="live"
+display_decimals=5
+name="FATPANDA"
+fixed_number=35000000000
+desc="FATPANDA is more than just a token—it's a symbol of fun, community, and pure panda power! 🐼💰 Whether you're here for the memes, the vibes, or just love the chunky panda spirit, FATPANDA is built to bring joy and a little extra weight to your portfolio. Pump, fun, and a keepsake—because who doesn’t love a fat, happy panda?"
+conditions="Maximum supply of FATPANDA is 35B tokens only"
+image="https://stellarmeme.fun/FATPANDA.png"
