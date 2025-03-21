@@ -27,3 +27,14 @@ fixed_number=35000000000
 desc="DONX isn’t just another meme token—it’s a movement! Inspired by fun, fueled by community, and built on the Stellar blockchain for speed, efficiency, and decentralization. Whether you're here for the pump, the fun, or the keepsake, DONX is designed to be a token you’ll remember. Because memes aren’t just jokes, they’re the future! 🌟🔥"
 conditions="Maximum supply of DONX is 35B tokens only"
 image="https://stellarmeme.fun/assets/DONX.png"
+
+[[CURRENCIES]]
+code="FOXY"
+issuer="GAMRIOQZL2VM2JIHXPH4SHUG245X2FWGHV3DY63ZLGKKORTVQMNUBOXY"
+status="live"
+display_decimals=5
+name="FOXY"
+fixed_number=35000000000
+desc="Whether you're a trader, collector, or just love the thrill of the market, FOXY is your dynamic token in the Stellar ecosystem. Agile, intelligent, and built for excitement—FOXY isn’t just a token, it’s an experience.🚀 Stay sharp, stay fast, stay FOXY!💨"
+conditions="Maximum supply of FOXY is 35B tokens only"
+image="https://stellarmeme.fun/assets/FOXY.png"
