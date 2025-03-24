@@ -49,3 +49,14 @@ fixed_number=35000000000
 desc="BUTTCOIN is BTC — the only token bold enough to use a butthole as its logo. WAIT! It's not Bitcoin. Way cheekier. BUTTCOIN (BTC) is the token that doesn’t moon — it wiggles. Built on Stellar, backed by vibes, and free from the weight of actual value. BUTTCOIN isn’t here to revolutionize finance — it’s here to sit on it."
 conditions="Maximum supply of BTC is 35B tokens only"
 image="https://stellarmeme.fun/assets/BTC.png"
+
+[[CURRENCIES]]
+code="BIZON"
+issuer="GCT7KBSU3K4LNENNW3VHOBMH2EQ53PODMZXRTLYBHBHB5UU65SIBIZON"
+status="live"
+display_decimals=5
+name="BIZON"
+fixed_number=35000000000
+desc="BIZON (🦬) — Half bull, half drama, full send. Minted with zero hesitation and even less utility. Built for holders who don’t DYOR — they just vibe. You bring the FOMO, BIZON brings the fluff. No brakes. No promises. Just horns"
+conditions="Maximum supply of BIZON is 35B tokens only"
+image="https://stellarmeme.fun/assets/BIZON.png"
