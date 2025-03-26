@@ -60,3 +60,14 @@ fixed_number=35000000000
 desc="BIZON (🦬) — Half bull, half drama, full send. Minted with zero hesitation and even less utility. Built for holders who don’t DYOR — they just vibe. You bring the FOMO, BIZON brings the fluff. No brakes. No promises. Just horns"
 conditions="Maximum supply of BIZON is 35B tokens only"
 image="https://stellarmeme.fun/assets/BIZON.png"
+
+[[CURRENCIES]]
+code="FICHCOIN"
+issuer="GAVP4NNZXYLOJRH5X2AOOYBNIMLOEQZ6BGRAFEK4XIO7ZTOSANADFICH"
+status="live"
+display_decimals=5
+name="FICHCOIN"
+fixed_number=35000000000
+desc="FICHCOIN — swimming against the current of utility since day one but fresh and fishier than ever! A bottom-feeder token for top-tier degeneracy. No whitepaper. No roadmap. Just bubbles and vibes — just one fishy move at a time. Let’s make this fish swim into history books of Stellar comedy gold!"
+conditions="Maximum supply of FICHCOIN is 35B tokens only"
+image="https://stellarmeme.fun/assets/FICHCOIN.png"
