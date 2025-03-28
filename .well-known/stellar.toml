@@ -71,3 +71,14 @@ fixed_number=35000000000
 desc="FICHCOIN — swimming against the current of utility since day one but fresh and fishier than ever! A bottom-feeder token for top-tier degeneracy. No whitepaper. No roadmap. Just bubbles and vibes — just one fishy move at a time. Let’s make this fish swim into history books of Stellar comedy gold!"
 conditions="Maximum supply of FICHCOIN is 35B tokens only"
 image="https://stellarmeme.fun/assets/FICHCOIN.png"
+
+[[CURRENCIES]]
+code="MOOFI"
+issuer="GCEDO4FRP5WVTAYNSIB35GDPJBIRXNXTUY24WV7HDEKKWCMORHRRZMOO"
+status="live"
+display_decimals=5
+name="MOOFI"
+fixed_number=35000000000
+desc="MOOFI is here to disrupt the financial barnyard. No banks. No middlemen. Just cowboys. Built on the full-fat Stellar blockchain — because skimmed networks are for chickens. 100% grass-fed hype. Zero-calorie utility."
+conditions="Maximum supply of MOOFI is 35B tokens only"
+image="https://stellarmeme.fun/assets/MOOFI.png"
