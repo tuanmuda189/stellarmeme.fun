@@ -82,3 +82,14 @@ fixed_number=35000000000
 desc="MOOFI is here to disrupt the financial barnyard. No banks. No middlemen. Just cowboys. Built on the full-fat Stellar blockchain — because skimmed networks are for chickens. 100% grass-fed hype. Zero-calorie utility."
 conditions="Maximum supply of MOOFI is 35B tokens only"
 image="https://stellarmeme.fun/assets/MOOFI.png"
+
+[[CURRENCIES]]
+code="FUSYCAT"
+issuer="GCLTYLDZRZHVKD2MLGGYWHXAQ6NZVC3FZO725MLW557Y7FQGL7JXFUSY"
+status="live"
+display_decimals=5
+name="FUSYCAT"
+fixed_number=35000000000
+desc="FUSYCAT — clawing its way onto the blockchain of Stellar with no plan and too much confidence. It yields nothing, obeys no one, and sleeps through market crashes. Decentralized? Yes. Domesticated? Never"
+conditions="Maximum supply of FUSYCAT is 35B tokens only"
+image="https://stellarmeme.fun/assets/FUSYCAT.png"
