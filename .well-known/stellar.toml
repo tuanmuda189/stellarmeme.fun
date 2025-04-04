@@ -104,3 +104,14 @@ fixed_number=35000000000
 desc="THREEAPE — three apes. zero thoughts. infinite vibes. No banana plan. Just primal energy on Stellar. They don’t follow charts. They follow instincts. Minted for mayhem, traded with confusion, held with conviction. Welcome to the jungle!"
 conditions="Maximum supply of THREEAPE is 35B tokens only"
 image="https://stellarmeme.fun/assets/THREEAPE.png"
+
+[[CURRENCIES]]
+code="WERMHOLE"
+issuer="GCJ4HHBMRIHLYJ7ELDCQPRNJXBI5YPB4RXY4TVOWILZOTBPJZWCUWERM"
+status="live"
+display_decimals=5
+name="WERMHOLE"
+fixed_number=35000000000
+desc="WERMHOLE — the only token that digs through dimensions and common sense. It's not a bridge. It's not a portal. It’s just a really determined worm. No utility, no roadmap — just spiraling vibes and suspicious tunnels. Built on Stellar. Destination unknown"
+conditions="Maximum supply of WERMHOLE is 35B tokens only"
+image="https://stellarmeme.fun/assets/WERMHOLE.png"
