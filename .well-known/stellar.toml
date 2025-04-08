@@ -115,3 +115,14 @@ fixed_number=35000000000
 desc="WERMHOLE — the only token that digs through dimensions and common sense. It's not a bridge. It's not a portal. It’s just a really determined worm. No utility, no roadmap — just spiraling vibes and suspicious tunnels. Built on Stellar. Destination unknown"
 conditions="Maximum supply of WERMHOLE is 35B tokens only"
 image="https://stellarmeme.fun/assets/WERMHOLE.png"
+
+[[CURRENCIES]]
+code="HAPPOCHAIN"
+issuer="GCMCLTNNT33OCLANVHL5D5C7LAE5FW4WHTKL5NKMISFWT4OV2TSHHAPO"
+status="live"
+display_decimals=5
+name="HAPPOCHAIN"
+fixed_number=35000000000
+desc="HAPPOCHAIN — built different, floats better. Strapped in bling, powered by nothing, respected by no one — yet somehow unstoppable. No utility, no roadmap, just one chunky hippo vibing through the Stellar jungle. Add liquidity? Nah. Add personality"
+conditions="Maximum supply of HAPPOCHAIN is 35B tokens only"
+image="https://stellarmeme.fun/assets/HAPPOCHAIN.png"
