@@ -126,3 +126,14 @@ fixed_number=35000000000
 desc="HAPPOCHAIN — built different, floats better. Strapped in bling, powered by nothing, respected by no one — yet somehow unstoppable. No utility, no roadmap, just one chunky hippo vibing through the Stellar jungle. Add liquidity? Nah. Add personality"
 conditions="Maximum supply of HAPPOCHAIN is 35B tokens only"
 image="https://stellarmeme.fun/assets/HAPPOCHAIN.png"
+
+[[CURRENCIES]]
+code="OWLTRA"
+issuer="GA3SGNYFNUOUEYGGSCBOWWLYDZU7JPIZDM5S4AYV2DRPAQJ4ZYYNAOWL"
+status="live"
+display_decimals=5
+name="OWLTRA"
+fixed_number=35000000000
+desc="OWLTRA — for those who watch charts while others sleep. A token for the early, the clever, and the occasionally unhinged. No guarantees. No roadmap. Just instinct and vibes in the dark. You either fly first… or get left behind"
+conditions="Maximum supply of OWLTRA is 35B tokens only"
+image="https://stellarmeme.fun/assets/OWLTRA.png"
