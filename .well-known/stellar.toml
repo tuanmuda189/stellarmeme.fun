@@ -137,3 +137,14 @@ fixed_number=35000000000
 desc="OWLTRA — for those who watch charts while others sleep. A token for the early, the clever, and the occasionally unhinged. No guarantees. No roadmap. Just instinct and vibes in the dark. You either fly first… or get left behind"
 conditions="Maximum supply of OWLTRA is 35B tokens only"
 image="https://stellarmeme.fun/assets/OWLTRA.png"
+
+[[CURRENCIES]]
+code="FUXY"
+issuer="GAYAAPTOC226HTBVRA4ZWMMNIWAF3GGZDQSH3J7BDOKQ5T2W2NSVFUXY"
+status="live"
+display_decimals=5
+name="FUXY"
+fixed_number=35000000000
+desc="FUXY — the token that launched itself accidentally. Powered by broken contracts and pure delusion. Too unstable to ignore. Too stylish to fix. Forked from the family, but with bugs"
+conditions="Maximum supply of FUXY is 35B tokens only"
+image="https://stellarmeme.fun/assets/FUXY.png"
