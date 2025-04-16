@@ -148,3 +148,14 @@ fixed_number=35000000000
 desc="FUXY — the token that launched itself accidentally. Powered by broken contracts and pure delusion. Too unstable to ignore. Too stylish to fix. Forked from the family, but with bugs"
 conditions="Maximum supply of FUXY is 35B tokens only"
 image="https://stellarmeme.fun/assets/FUXY.png"
+
+[[CURRENCIES]]
+code="MHUSEKETEER"
+issuer="GDPX3G6WBRIY2773KB3Y2WDG2FKR6CRCFAAZDPMKCTYE32BA3N7MHUSE"
+status="live"
+display_decimals=5
+name="MHUSEKETEER"
+fixed_number=35000000000
+desc="MHUSEKETEER — one coin for all, and all for the memes. Armed with nothing but a feathered hat and inflated confidence, this musketeer marches through the Stellar chain in search of liquidity and chaos. No sword can stop him. No chart can guide him. Join the legend, or get dramatically duelled"
+conditions="Maximum supply of MHUSEKETEER is 35B tokens only"
+image="https://stellarmeme.fun/assets/MHUSEKETEER.png"
