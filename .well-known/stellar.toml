@@ -159,3 +159,14 @@ fixed_number=35000000000
 desc="MHUSEKETEER — one coin for all, and all for the memes. Armed with nothing but a feathered hat and inflated confidence, this musketeer marches through the Stellar chain in search of liquidity and chaos. No sword can stop him. No chart can guide him. Join the legend, or get dramatically duelled"
 conditions="Maximum supply of MHUSEKETEER is 35B tokens only"
 image="https://stellarmeme.fun/assets/MHUSEKETEER.png"
+
+[[CURRENCIES]]
+code="CAFZ"
+issuer="GCESLRVYJ35KL2NTBTABMG3VIDBO2FV2VXD5BTERTGKXQERWEK5ZCAFZ"
+status="live"
+display_decimals=5
+name="CAFZ"
+fixed_number=35000000000
+desc="CAFZ — the baby cow that wandered onto the blockchain and stayed. Zero experience. Zero shame. Just pure milk-fueled momentum. Built on Stellar. Moo-ving with confidence."
+conditions="Maximum supply of CAFZ is 35B tokens only"
+image="https://stellarmeme.fun/assets/CAFZ.png"
