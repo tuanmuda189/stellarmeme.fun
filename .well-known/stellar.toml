@@ -170,3 +170,14 @@ fixed_number=35000000000
 desc="CAFZ — the baby cow that wandered onto the blockchain and stayed. Zero experience. Zero shame. Just pure milk-fueled momentum. Built on Stellar. Moo-ving with confidence."
 conditions="Maximum supply of CAFZ is 35B tokens only"
 image="https://stellarmeme.fun/assets/CAFZ.png"
+
+[[CURRENCIES]]
+code="ROGGS"
+issuer="GAEAENSPWIZNJH6C2AXXRBMYO56AGWHNPWGX5UAB2W6EX6BVZT4ROGGS"
+status="live"
+display_decimals=5
+name="ROGGS"
+fixed_number=35000000000
+desc="ROGGS — forged from FUD and fire, pixelated in defiance. He doesn't chase charts — he melts them. The loudest, heaviest, most unreasonably confident token on Stellar. This isn't just a meme. It's a headbanger."
+conditions="Maximum supply of ROGGS is 35B tokens only"
+image="https://stellarmeme.fun/assets/ROGGS.png"
