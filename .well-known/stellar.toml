@@ -181,3 +181,14 @@ fixed_number=35000000000
 desc="ROGGS — forged from FUD and fire, pixelated in defiance. He doesn't chase charts — he melts them. The loudest, heaviest, most unreasonably confident token on Stellar. This isn't just a meme. It's a headbanger."
 conditions="Maximum supply of ROGGS is 35B tokens only"
 image="https://stellarmeme.fun/assets/ROGGS.png"
+
+[[CURRENCIES]]
+code="BOLOTO"
+issuer="GDZWL7QBJIE2NSAGUCXVWSXJLI2V77XS5TH7RPUQAKSQDATWDUBOLOTO"
+status="live"
+display_decimals=5
+name="BOLOTO"
+fixed_number=35000000000
+desc="BOLOTO — the luckiest unlucky token on Stellar. Spinning through blockchains with a bag full of dreams. Born to win big, destined to miss airdrops. Optimistic, clueless, and 100% ready for moon... someday"
+conditions="Maximum supply of BOLOTO is 35B tokens only"
+image="https://stellarmeme.fun/assets/BOLOTO.png"
