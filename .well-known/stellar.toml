@@ -192,3 +192,14 @@ fixed_number=35000000000
 desc="BOLOTO — the luckiest unlucky token on Stellar. Spinning through blockchains with a bag full of dreams. Born to win big, destined to miss airdrops. Optimistic, clueless, and 100% ready for moon... someday"
 conditions="Maximum supply of BOLOTO is 35B tokens only"
 image="https://stellarmeme.fun/assets/BOLOTO.png"
+
+[[CURRENCIES]]
+code="GOOOSLU"
+issuer="GCQDBC4BD2YY2JVAEGXL7KQKDDAPV3T4CH77TX75MUAQNZZ2LGOOOSLU"
+status="live"
+display_decimals=5
+name="GOOOSLU"
+fixed_number=35000000000
+desc="GOOOSLU — a crypto goose with slippery ethics and unstoppable honk. Too elegant to be serious, too gooey to be trusted. It flies when it wants, it dips when you ape. Built on chaos. Lives for crumbs"
+conditions="Maximum supply of GOOOSLU is 35B tokens only"
+image="https://stellarmeme.fun/assets/GOOOSLU.png"
