@@ -203,3 +203,14 @@ fixed_number=35000000000
 desc="GOOOSLU — a crypto goose with slippery ethics and unstoppable honk. Too elegant to be serious, too gooey to be trusted. It flies when it wants, it dips when you ape. Built on chaos. Lives for crumbs"
 conditions="Maximum supply of GOOOSLU is 35B tokens only"
 image="https://stellarmeme.fun/assets/GOOOSLU.png"
+
+[[CURRENCIES]]
+code="PEEH"
+issuer="GCLTKDITXA6L7EJOEEMNUTDC45EOZNZZG6UJLWZQ53OKNCR5HY3SPEEH"
+status="live"
+display_decimals=5
+name="PEEH"
+fixed_number=35000000000
+desc="PEEH — the bear who swapped honey for hopeless bags. Soft, sticky, and deeply confused by charts. He doesn’t roar. He whimpers. Built on Stellar. Powered by honey vibes and market denial"
+conditions="Maximum supply of PEEH is 35B tokens only"
+image="https://stellarmeme.fun/assets/PEEH.png"
