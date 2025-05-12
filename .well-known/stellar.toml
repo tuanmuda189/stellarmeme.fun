@@ -236,3 +236,14 @@ fixed_number=35000000000
 desc="QOOKI is not just a cookie. He's a crypto survivor. Born in a smart contract oven and rugged before he could even cool, QOOKI now wanders the Stellar chain—half-baked, slightly burnt, and totally confused. But still chewy inside"
 conditions="Maximum supply of QOOKI is 35B tokens only"
 image="https://stellarmeme.fun/assets/QOOKI.png"
+
+[[CURRENCIES]]
+code="KOLBI"
+issuer="GCRKC5PCXSJUH4YBOFWF6KD2P7UCFAZEABKJ4IOVOSU24WIJGHFKOLBI"
+status="live"
+display_decimals=5
+name="KOLBI"
+fixed_number=35000000000
+desc="KOLBI is a melted block of Colby cheese who thought DeFi was his ticket to the moon. Turns out it just dairy-based hopium. Perfect for collectors who like their crypto aged and melted."
+conditions="Maximum supply of KOLBI is 35B tokens only"
+image="https://stellarmeme.fun/assets/KOLBI.png"
