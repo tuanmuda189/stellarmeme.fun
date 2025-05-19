@@ -247,3 +247,14 @@ fixed_number=35000000000
 desc="KOLBI is a melted block of Colby cheese who thought DeFi was his ticket to the moon. Turns out it just dairy-based hopium. Perfect for collectors who like their crypto aged and melted."
 conditions="Maximum supply of KOLBI is 35B tokens only"
 image="https://stellarmeme.fun/assets/KOLBI.png"
+
+[[CURRENCIES]]
+code="NORI"
+issuer="GBHP3P2TMAVFXMLGOZY367URZ6WFFJFT6T6TSDTD4GGTXOOTBQ5WNORI"
+status="live"
+display_decimals=5
+name="NORI"
+fixed_number=35000000000
+desc="NORI dreamed of becoming premium sushi on the DeFi menu. Instead, he got wrapped around in rice without soy sauce. Salty, clingy, and still collectible for anyone who enjoys seafood-flavored regrets"
+conditions="Maximum supply of NORI is 35B tokens only"
+image="https://stellarmeme.fun/assets/NORI.png"
