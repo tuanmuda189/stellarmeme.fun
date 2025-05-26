@@ -258,3 +258,14 @@ fixed_number=35000000000
 desc="NORI dreamed of becoming premium sushi on the DeFi menu. Instead, he got wrapped around in rice without soy sauce. Salty, clingy, and still collectible for anyone who enjoys seafood-flavored regrets"
 conditions="Maximum supply of NORI is 35B tokens only"
 image="https://stellarmeme.fun/assets/NORI.png"
+
+[[CURRENCIES]]
+code="CZROC"
+issuer="GC7XLWGJC6565CTHJOMLE35ABNHXNEGBTZ3ZZXGEISM6SGM7F3RCZROC"
+status="live"
+display_decimals=5
+name="CZROC"
+fixed_number=35000000000
+desc="CZROC is a crocodile from the Stellar swamp who believes he's a DeFi genius. He eats charts and bites dips. Perfect for collectors who like their crypto scaly and overconfident"
+conditions="Maximum supply of CZROC is 35B tokens only"
+image="https://stellarmeme.fun/assets/CZROC.png"
