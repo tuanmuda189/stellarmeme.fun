@@ -269,3 +269,14 @@ fixed_number=35000000000
 desc="CZROC is a crocodile from the Stellar swamp who believes he's a DeFi genius. He eats charts and bites dips. Perfect for collectors who like their crypto scaly and overconfident"
 conditions="Maximum supply of CZROC is 35B tokens only"
 image="https://stellarmeme.fun/assets/CZROC.png"
+
+[[CURRENCIES]]
+code="ZIXMA"
+issuer="GDGE2HVP2ZPCQYKDY6W5NLSS75Z2BDX4HNDYUPVM4PQHX2YDEOTZIXMA"
+status="live"
+display_decimals=5
+name="ZIXMA"
+fixed_number=35000000000
+desc="ZIXMA is a crypto beast who thinks he's the alpha of DeFi. He sips Yield Juice, posts pump charts, and wears a hardware wallet like a trophy. His confidence? Unshaken."
+conditions="Maximum supply of ZIXMA is 35B tokens only"
+image="https://stellarmeme.fun/assets/ZIXMA.png"
