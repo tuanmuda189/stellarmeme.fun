@@ -280,3 +280,14 @@ fixed_number=35000000000
 desc="ZIXMA is a crypto beast who thinks he's the alpha of DeFi. He sips Yield Juice, posts pump charts, and wears a hardware wallet like a trophy. His confidence? Unshaken."
 conditions="Maximum supply of ZIXMA is 35B tokens only"
 image="https://stellarmeme.fun/assets/ZIXMA.png"
+
+[[CURRENCIES]]
+code="WARHT"
+issuer="GANZLK5WPKFUR64TMSZKTMZYSOD67CLSLNPUXIR3EV5FEGZQBVFWARHT"
+status="live"
+display_decimals=5
+name="WARHT"
+fixed_number=35000000000
+desc="WARHT is a cyber warthog born from broken smart contracts and uncontrollable market rage. Every red candle is a personal insult. He charges into liquidity pools like they owe him money. Add him to your wallet if you believe emotional damage is a valid trading strategy"
+conditions="Maximum supply of WARHT is 35B tokens only"
+image="https://stellarmeme.fun/assets/WARHT.png"
