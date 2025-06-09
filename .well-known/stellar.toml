@@ -291,3 +291,14 @@ fixed_number=35000000000
 desc="WARHT is a cyber warthog born from broken smart contracts and uncontrollable market rage. Every red candle is a personal insult. He charges into liquidity pools like they owe him money. Add him to your wallet if you believe emotional damage is a valid trading strategy"
 conditions="Maximum supply of WARHT is 35B tokens only"
 image="https://stellarmeme.fun/assets/WARHT.png"
+
+[[CURRENCIES]]
+code="BUVY"
+issuer="GBV4I52QGAMA6VS7532UQ3SP6QPTQ7QT3OTN7UJUQOF6D35E6UCYBUVY"
+status="live"
+display_decimals=5
+name="BUVY"
+fixed_number=35000000000
+desc="BUVY is a pufferfish who inflates with excitement every time the market twitches. He doesn't know what a token is, but he floats anyway. Add him to your wallet if you believe blind optimism is a trading strategy"
+conditions="Maximum supply of BUVY is 35B tokens only"
+image="https://stellarmeme.fun/assets/BUVY.png"
